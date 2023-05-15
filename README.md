@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Giribabu
 - 👀 I’m interested in Programming and Backend Development
 - 🌱 I’m a B.E. Computer Science and Engineering Graduate @REC, Chennai.
-- 🧑🏻‍💻 I’m currently orking as a Software Developer
+- 🧑🏻‍💻 I’m currently working as a Software Developer
 - 📫 Reach me at mail - graj.2000.gbr@gmail.com
 
 <!---
